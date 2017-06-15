@@ -1,6 +1,8 @@
 There once was a prince who was angry.
 
-It was peace time and he had a lot of duties to do. But his rumbling rage was too powerful to handle.
+It was peace time and he had a lot of duties to do. 
+
+But his rumbling rage was too powerful to handle.
 
 He decided to take the biggest sword in the kingdom.
 
